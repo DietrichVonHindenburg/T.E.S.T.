@@ -1,0 +1,14 @@
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.csprojAssemblyReference.cache
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\bin\Debug\Text-Advenuture.exe.config
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\bin\Debug\Text-Advenuture.exe
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\bin\Debug\Text-Advenuture.pdb
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.exe
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.pdb
+E:\Programmieren\text adventure (nicht github)\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.csproj.CoreCompileInputs.cache
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\bin\Debug\Text-Advenuture.exe.config
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\bin\Debug\Text-Advenuture.exe
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\bin\Debug\Text-Advenuture.pdb
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.csprojAssemblyReference.cache
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.csproj.CoreCompileInputs.cache
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.exe
+E:\Programmieren\text adventure (nicht github)\T.E.S.T\text adventure\Text-Advenuture\Text-Advenuture\obj\Debug\Text-Advenuture.pdb
